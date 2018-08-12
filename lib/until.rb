@@ -3,6 +3,6 @@ def using_until
         #your code here
     until evitation_force>10
       evitation_force +=1
-      puts 'Wingardium Leviosa'
+      print 'Wingardium Leviosa\n'
     end
 end
